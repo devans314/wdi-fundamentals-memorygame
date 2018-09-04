@@ -33,7 +33,7 @@ a  {
 	border-bottom: 2px solid transparent;
 	text-transform: uppercase;
 }
-nav a:hover {
+a:hover {
 	border-color: white;
 }
 header {
